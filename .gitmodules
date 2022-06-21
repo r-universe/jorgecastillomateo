@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RecordTest"]
+	path = RecordTest
+	url = https://github.com/jorgecastillomateo/recordtest
+	shallow = true
+	registered = true
